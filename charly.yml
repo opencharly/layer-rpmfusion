@@ -1,7 +1,5 @@
-version: 2026.232.0520
 rpmfusion:
     candy:
-        version: 2026.227.0830
         description: |
             Enables the RPM Fusion free and nonfree Fedora repositories.
             Installs the rpmfusion-free-release and rpmfusion-nonfree-release
